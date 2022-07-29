@@ -1,5 +1,7 @@
 .images {
     filter: brightness(50%);
-    width: 50vh;
+}
+
+.object {
     object-fit: cover;
 }
